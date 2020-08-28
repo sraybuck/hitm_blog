@@ -1,0 +1,39 @@
+---
+layout: post
+title: Rough Brainstorm and Thoughts So Far
+date: 2020-08-28 00:00:00 +0300
+description: First post outlining my goals and the general outline of my ideas so far. # Add post description (optional)
+img: Onterat.jpg # Add image post (optional)
+tags: [brainstorming] # add tag
+---
+## So Plans Change...
+Initially I was planning on using the Robert E. Hancock Jr. collection at FSU Special Collections to amass a bunch of government documents, photos, and just fun stuff to make an Antarctic Heist webcomic. Special Collections is still closed and none of the artifacts I need are in the digital archive so I need to switch gears. Luckily, I got pretty deep into a high fantasy rabbit hole this summer so I have an alternate idea that I'm much more excited about. I'm using an old DnD character of mine and placing her into the world of my current campaign (pictured roughly in the map above) in order to explore some themes about religion, fate, fantasy, and queerness. Thats essentially the elevator pitch version, but you guys are here because you're on my committee (or just a friend I gave this link to) so heres the long-winded version:
+
+## Some Background on Our Protagonist
+The character that I'm centering the narrative around is Audrey Ward. Here's a [link](https://imgur.com/QRQU53M) to her original character sheet for anyone who wants to see it, but mainly the important part is her original backstory which I'm going to, unfortunately, quote verbatim here: 
+
+"Raised in cult of Lathander which believed that the renewal part of belief is tied to reincarnation so they kill people to move them to the next level of faith. Not down with that shit so I left, not a huge Lathander fan but like the god picked me and I have powers now so I'm rolling with it. Since I was raised in a cult I have limited knowledge of the outside world. I'm currently travelling around, trying to figure out what my next move is and learning. 
+Quirks: I'm trying to learn guitar but I am VERY BAD at it. Also on a mission to find the best onion rings in the world."
+
+So obviously this needs some work; in my defense, I really never thought I would publish this in any capacity and the onion rings thing was a running gag. However, the crux of the character is there. Audrey is the "chosen one" of one of the major gods of light, Lathander. This is evidenced by the fact that she has a huge sun birthmark on her back that is due to her being "chosen" and also because she has distant celestial (high-fantasy angel) heritage which also eventually gives her some light-based magical abilities. An orphan of ambiguous origin, she is noticed at an orphanage by strange acolytes of Lathander who come through town to evangelize and is adopted and raised within the faith as Lathander's Champion. She is made the right hand of their religious leader and is deeply ingratiated in the faith since its all she's really ever known and their camp is out in the middle of nowhere. Eventually she becomes aware of the more cult-like nature of the believers and how they twist the nature of light and rebirth to their own nefarious means. This leads to a pitched conflict where Audrey's celestial heritage comes out in a big way and she effectively disbands the cult by burning down all their buildings in a huge blast of radiant holy fire with her at the epicenter. She then leaves the cult and has to explore the world for the first time alone, and come to terms with not only what was done to her but what she did and what her magic means. 
+
+## Main Themes
+
+When I set out to create Audrey's character, either intentionally or unintentionally, I created an allegory for my own experience growing up as a gay kid in a seriously religious environment. Audrey's magic and connection to Lathander is inherently a good thing, but is twisted and repressed by the cult in order to laud her as a bastion of THEIR version of the faith. Audrey's character brings up a lot of interesting themes like grappling with repression, recovery, and how to conceptualize faith and your own experiences once you're not in a religious environment. I don't have answers or opinions on all these because I'm still figuring it out but I think the authenticity that I can approach this project with will really lend itself to a compelling narrative. Additionally, I have crafted the perfect lovable, sheltered idiot who can punch holes in walls so I think I have some pretty fruitful narrative ground to cover. 
+
+## Narrative Structure and Use of Flashbacks
+
+The structure I'm going for is 10-12 scenes, 5-7 scenes set in the current time and 5 flashbacks. Over the summer I read The Stormlight Archive by Brandon Sanderson which heavily features flashbacks. Sanderson's main characters have inhibited memories either due to trauma and repression or magical memory erasure. The flashbacks serve multiple purposes, but I think their most important functions are to draw narrative parallels between the characters' past and present to show growth, general characterization, and foreshadowing. I think its a really compelling format to drop your character into a crazy situation with no explanation of how they got there, and then slowly dish out the backstory in time with the current conflict, so the reader is on the edge of their seat in two different ways. I think it'll be difficult to pull off, but I really want to take a crack at it. 
+
+The flashbacks will mostly cover a much more detailed version of the backstory I already laid out for you and the current timeline will explore what happens when Audrey tries to rebuild her life in the underbelly of the fancy, metropolitan city of Chantelle (read: high fantasy Paris) and finds the remnants of the cult of Lathander still out in the world. As I mentioned before, Sanderson usually uses trauma or magically modified memory as the reasoning for having extensive flashbacks. I think that for Audrey, I'm going to use magically modified memory as a metaphor for repression and trauma, which sounds really wild but hear me out:
+
+After the pitched battle with the cult, as a final act of cutting revenge the cult leader erases or modifies parts of Audrey's memory to get back at her for destroying his life's work. The flashbacks then will narratively be interwoven with the current timeline as insight into Audrey that she herself does not know until the very end when she re-confronts the cult in Chantelle and unlocks her memories. Metaphorically, the modified memory will be a much more concrete example of repression due to faith because the head of the religion literally locked her memories away. I think this will make the flashbacks more compelling since the readers start to receive information that the protagonist doesn't know, and also it ties into the main themes that I'm working with.
+
+## Technology Things
+
+On a drastically different note: for development purposes, I think my initial development of the comic will go up as a static site using Jekyll on GitHub pages. Eventually, I want to transition to this being hosted on AWS either as a collection of S3 objects or on Lightsail or EC2 if the project needs a server. I want to gain enough experience messing around in AWS with my own project so that I can take the AWS DevOps certification this winter (I got my Cloud Practitioner Cert this summer so this is the next step), so the technical portion of this project also has some goals. I either want to have this site being run on serverless architecture on S3 and using Lambda functions, since its cheaper and also I think it would be fun to try, or get some nitty gritty experience with running my own web server, which I've never done before. 
+
+## Conclusions
+
+I'm wicked excited about this project and if you have any feedback about these ideas please let me know either via my school email or on the comments below!
+
