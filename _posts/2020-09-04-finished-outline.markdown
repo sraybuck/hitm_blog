@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finished Outline and Critical Reflection Questions"
-date: 2020-08-04 00:00:00 +0300
+date: 2020-09-04 00:00:00 +0000
 description: Google drive link to my outline and also introducing the discussion questions I'll be answering at the end of every blog post. # Add post description (optional)
 img:  cathedral.jpg # Add image post (optional)
 ---
