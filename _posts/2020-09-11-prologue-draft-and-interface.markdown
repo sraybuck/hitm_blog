@@ -31,6 +31,6 @@ I kicked around this question for the past week and decided that I needed to foc
 
 I like this idea for a number of reasons. First, because I would be pulling from existing content (i.e. the chapters themselves) to include interactive components instead of making new content. Second, I could design the comic to then be a hidden archive of the narrative instead of just a presentation of it, which would give the overall design of the website more relevance to the narrative. Third, I like it because its exactly the kind of thing I would get a kick out of if I stumbled across it on the internet. Secret puzzles to unlock the next chapter of an epic quest? Sixteen-year-old me would have thought this was the coolest thing ever. 
 
-# A Note on the Header Images for These Posts
+### A Note on the Header Images for These Posts
 
 I'm going to try to find a header image for these posts that I can reuse in the comic for those setting images I mentioned in my first post. For example, today's header image is of the inside of a bar which is one of the planned settings for Scene 2. So if you're wondering why the images have no relevance to what I'm talking about, thats why. I'm just trying to get out ahead of the design work and create a repository of stuff to pull from.
