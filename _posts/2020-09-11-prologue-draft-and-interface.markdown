@@ -13,15 +13,15 @@ I've also selected a base template to work with for the interface, I went throug
 Additionally, I liked some of the default settings like the serif fonts and the minimalist design that felt like they lent themselves into the overall tone of what I'm looking for. It also has built-in header images in the template, which isn't necessarily difficult to do but it is something I had planned to incorporate into my design so it was very convenient to see. Right now the theme defaults to a white-on-black color scheme with some extraneous navbar options. Next week I'm going to try to make essentially a "dark mode" alternative version of it without that extra clutter and with a dark color scheme. I'll also try to consult with my friend who does interface design and mock up some sketches that I can use to develop wireframes. The goal here is to get a functional, customized interface template by the end of the month. 
 
 ## Reflection Questions
-1. What challenges did I encounter this week?
+1) What challenges did I encounter this week?
 
 I hit some bumps with writers block and almost a paralysis of what to write. I have my outline, which informs what I'm trying to do in each scene in broad strokes, but when I get down to actually writing the scene, I don't have a solid plan of what happens beat-by-beat so I get stuck. I think the remedy for this is just to not jump into writing right away, and spend 10-15 minutes doing a bullet point outline of the finer details of the scene. I'm going to try this with the next scene I write and see if it helps at all. 
 
-2. How am I crafting the comic towards the web medium in this phase of the project ? 
+2) How am I crafting the comic towards the web medium in this phase of the project ? 
 
 As I'm picking an interface template, I'm trying to adhere to the current standards and trends of design to make sure my website looks appealing while also staying true to the tone and look I want my comic to have. This sounds pretty easy, but its hard for me to reconcile the current sleek and minimalist design trends with the gritty, detailed, and intentionally archaic aesthetics of high fantasy. I think a good compromise between the two is to focus on the typography and images as points of reference for the fantasy aesthetics, while the negative space and overall design adheres to current web standards. For example, this would mean that the header images all reflect the setting of my story and I use serif or handwriting fonts, while also effectively using white space, minimalist navigation, and limiting the amount of visual clutter in general. 
 
-3. Am I incorporating the five aspects of interactivity, movement, interface, infinite canvas and experimentation at this stage and if so, how am I doing it?
+3) Am I incorporating the five aspects of interactivity, movement, interface, infinite canvas and experimentation at this stage and if so, how am I doing it?
 
 I would say right now I'm highly focused on interface, but just the early stages. I think my answer to #2 also covers this one pretty well, but I'd like to add some of my recent thoughts on interactivity. 
 
