@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hm its almost the End of September"
+title: "Hm its Almost the End of September"
 date: 2020-09-18 00:00:00 +000
 description: Update on interface, drafting the first flashback, and what my overall timeline is # Add post description (optional)
 img:  wastes.jpg
