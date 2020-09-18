@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Hm its almost the End of September"
+date: 2020-09-18 00:00:00 +000
+description: Update on interface, drafting the first flashback, and what my overall timeline is # Add post description (optional)
+img:  wastes.jpg
+---
+
+# What I got Done this Week
+
+This week, I drafted the first flashback scene and I met with my graphic designer friend to get some feedback on my interface ideas. Overall, the writing process went much smoother after doing some outlining exercises like I mentioned last week, and it was frankly much more fun to write because of it. The flashback is at about 3,500 words right now as a first draft, and my prologue is around 2,200 words. I did some math, and assuming that the actual chapters themselves end up longer than my flashbacks and prologue, and if I stick to my original structure of 10 scenes, I'm going to end up with about a novella-sized comic. Which is kind of exciting but also incredibly daunting! As someone who has hilariously failed at self-directed creative writing endeavors in the past, the thought of essentially going 0 to 60 for writing production in one semester is absolutely crazy. So I'm going to not think about that and move on to the interface update.
+
+My friend Carolyn had a bunch of great suggestions that I hadn't thought of like creating a cohesive color pallette and making a somewhat-functional prototype of my map/archive in Prezi because its easy to use and has similar animations to what I'm looking for. I mocked up some sketches and made the color pallette so this weekend I'm going to try to take screenshots of by base template and turn them into mock-ups of what I want my interface to look like. My goal is still to get a working prototype by the end of the month, I just realized I had kind of put the cart in front of the horse by saying I was going to make a "dark mode" by this week when I hadn't actually sketched anything out or made wireframes yet. 
+
+# The Timeline
+
+So by my current writing pace of one chapter a week, its going to take me until about Thanksgiving to get a full draft of this thing done. Which is bad. I need time to revise the draft, develop the website, and do all the crazy fine-detail work that comes at the end of a big project like this. So I definitely need to speed up production, probably drafting about twice as fast as my current rate. Because I'm still getting the hang of this, and also because I've jumped into the interface design part of this for the month, my goal is to keep doing a chapter a week for September and also work on the interface. That way, I'll have four chapters done by October and a good idea of what my website will look like going into development (probably beginning in November). With almost half the comic under my belt and a settled design, I can fully focus on writing for October and move to writing two-ish chapters a week. The goal will be a full, once-revised draft of the comic. Going into development, I don't really NEED a final draft done because most of the interface isn't finely tuned into the details of the narrative. I'm working with mostly overall setting, tone, and themes, which will be present in a full draft.
+
+So based on all that, my timeline is: 
+
+September Goal: four chapters and interface wireframes/prototype done
+October Goal: full revised draft of narrative
+November Goal: working prototype of comic up on the web
+December: put out fires and fine tune everything
+
+So thats a busy semester! But the good news is I have yet to miss a deadline on something, and I'm making good progress. I'm confident in my ability to tackle this in small chunks and end up with something I'm proud of at the end of the semester.
+
+## Critical Reflection
+
+1) What challenges did I encounter this week?
+
+Mostly just trying to conceptualize the amount of work I have to do and reconciling that with my timeline. This is an ambitious project and I'm embarking on it my senior year, where I already have a ton of coursework and I'm applying to jobs. I guess the stress of just staying on top of everything was my biggest challenge and not letting how little I have done right now discourage me.
+
+2) How am I crafting the comic towards the web medium in this phase of the project?
+
+I would say I'm not doing this intentionally, but my chapters are relatively short compared to other written fiction. I'm hovering around 3,000 words right now which is a bit low for books, but might work in my favor on the web. People typically don't have the same attention span looking at screens as they do physical books, so making my narrative shorter and quicker will work towards my advantage in a web format. 
+
+3) Am I incorporating the five aspects of interactivity, movement, interface, infinite canvas and experimentation at this stage and if so, how am I doing it?
+
+My answer from last week mostly goes here because I've mostly been writing this week and therefore I haven't done a whole lot with the presentation of the comic. I've now committed myself in writing to working on the wire frames this weekend though, so I will revisit this question after I've worked on that.
