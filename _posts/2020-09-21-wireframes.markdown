@@ -12,7 +12,7 @@ If you guys have any comments or suggestions, please let me know! I'm really loo
 
 ## Darkmode
 
-![test]({{site.baseurl}}/assets/img/dark_side_by_side_.png)
+![test]({{site.baseurl}}/assets/img/dark_side_by_side.png)
 
 ![Darkmode version with big text over header image]({{site.baseurl}}/assets/img/darkmode_text.png)![Darkmode version without big text over header image]({{site.baseurl}}/assets/img/darkmode_notext.png)
 
