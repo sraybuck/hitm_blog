@@ -11,6 +11,9 @@ I did take a UI/UX class but I still don't entirely know the difference between 
 If you guys have any comments or suggestions, please let me know! I'm really looking for feedback since these feel off to me.
 
 ## Darkmode
+
+![test]({{site.baseurl}}/assets/img/dark_side_by_side_.png)
+
 ![Darkmode version with big text over header image]({{site.baseurl}}/assets/img/darkmode_text.png)![Darkmode version without big text over header image]({{site.baseurl}}/assets/img/darkmode_notext.png)
 
 
