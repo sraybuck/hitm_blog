@@ -3,7 +3,7 @@ layout: post
 title: "The Drafting Process and Initial Thoughts on Interfaces"
 date: 2020-09-11 12:00:00 +0000
 description: My impressions based on drafting the prologue this week and also plans for the interface of the comic. # Add post description (optional)
-img:  bar.jpeg # Add image post (optional)
+img:  headers/bar.jpeg # Add image post (optional)
 ---
 ## Prologue Draft and Interface Base
 This week my goals were to get my Prologue drafted and get a base template for my interface design. I am happy to say that I met both those goals! I currently have a working draft of my prologue that I'm going to polish up a little this weekend before starting on either Chapter 1 or the flashbacks. I think I might start on the flashbacks because I have a much better sense of direction with those scenes and I'm still working out my writing process. I ran into some writers block, mostly because it was a long weekend and I was on vacation in Tampa, but I'll discuss that more in the reflection questions. 

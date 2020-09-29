@@ -3,7 +3,7 @@ layout: post
 title: "Finished Outline and Critical Reflection Questions"
 date: 2020-09-04 00:00:00 +0000
 description: Google drive link to my outline and also introducing the discussion questions I'll be answering at the end of every blog post. # Add post description (optional)
-img:  cathedral.jpg # Add image post (optional)
+img:  headers/cathedral.jpg # Add image post (optional)
 ---
 ## My Outline is Done!
 I took this week to create an outline of all the scenes I'm going to include in the narrative portion of the comic. The link is up in a google doc [here](https://drive.google.com/file/d/1EH0xDrZKqajHxPXnFrAnQjal7DU9B8oa/view?usp=sharing), its more of a guideline than a strict script to stick to but the exercise of putting all my thoughts down in a coherent structure really helped me flesh out parts of the comic that I had overlooked or forgotten to consider. A huge piece that I had done pretty much no thinking about prior to this week was the plot of the comic outside the scope of my main character's internal journey, so I came up with sort of this evil heist idea that our heroes could foil that seems like it would be fun to lay out the clues for. As always, any feedback you have is welcome. 

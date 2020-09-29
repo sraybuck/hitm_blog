@@ -16,11 +16,11 @@ If you guys have any comments or suggestions, please let me know! I'm really loo
 
 ## Darkmode
 
-![Side-by-side comparison of the text and no text versions of dark mode]({{site.baseurl}}/assets/img/dark_side_by_side.png)
+![Side-by-side comparison of the text and no text versions of dark mode]({{site.baseurl}}/assets/img/posts/dark_side_by_side.png)
 
 ### Lightmode
 
-![Side-by-side comparison of the text and no text versions of light mode]({{site.baseurl}}/assets/img/light_side_by_side.png)
+![Side-by-side comparison of the text and no text versions of light mode]({{site.baseurl}}/assets/img/posts/light_side_by_side.png)
 
 
 I also need to make a mock-up of what I want the map/archive page to look like. Because the story is mostly told in the present with the flashbacks supporting that storyline, I want the darkmode to be the default for the website but so far, I think the lightmode looks better. Therefore, I need to tweak the dark version and then use that to inform how I make the map page. Once I get those designs nailed down, I think I will have met my September goal and I'll be able to take the designs into the development phase in November.

@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on Visual Components
 date: 2020-08-28 15:30:00 +0300
 description: Some concepts for how I'll include visual elements into my comic when I'm not an artist # Add post description (optional)
-img: grass1.png # Add image post (optional)
+img: headers/grass1.png # Add image post (optional)
 tags: [brainstorming] # add tag
 ---
 ## Some Ideas for Design Changes
@@ -12,27 +12,27 @@ I was really banking on the Hancock Collection to provide most of my visuals for
 
 Additionally, each chapter should have some visual element, so I came up with the idea to use creative commons images of general landscapes as sort of Avengers-esque titlecards. For example, in Civil War, all the locations are accompanied by an establishing shot with big text like so:
 
-![London establishing shot]({{site.baseurl}}/assets/img/london.png)
+![London establishing shot]({{site.baseurl}}/assets/img/posts/london.png)
 
-![Vienna establishing shot]({{site.baseurl}}/assets/img/vienna.png)
+![Vienna establishing shot]({{site.baseurl}}/assets/img/posts/vienna.png)
 
 Also, this popular European teen drama show, Skam, does a similar thing with timestamps. Heres some screenshots of scenes from Skam France:
 
-![Before a party in the woods on friday at 22:22]({{site.baseurl}}/assets/img/friday.png)
-![Scene at an old racetrack on satruday]({{site.baseurl}}/assets/img/saturday.png)
-![Honestly I didn't watch this clip, I just liked the cityscape]({{site.baseurl}}/assets/img/wednesday.png)
+![Before a party in the woods on friday at 22:22]({{site.baseurl}}/assets/img/posts/friday.png)
+![Scene at an old racetrack on satruday]({{site.baseurl}}/assets/img/posts/saturday.png)
+![Honestly I didn't watch this clip, I just liked the cityscape]({{site.baseurl}}/assets/img/posts/wednesday.png)
 
 So I figured since its an easy and clear way to set up the location, tone, and also timeframe, I could pretty easily leverage this kind of a visual for my comic. Huge, high quality, generic landscape and location shots within the Creative Commons licence are pretty easy to find online, the only problem is how to use these stock photos to convey a high fantasy atmosphere and also have a consistent visual aesthetic. I asked my girlfriend for help with this since Adrianna is a digital artist and they've done this kind of thing for a bunch of internships. They pitched this idea of using Photoshop filters to create an illustrated appearance to normal stockphotos like this one of just a field of wheat or grass:
 
-![Stock photo I got from Unsplash.com]({{site.baseurl}}/assets/img/grass.jpeg)
+![Stock photo I got from Unsplash.com]({{site.baseurl}}/assets/img/posts/grass.jpeg)
 
 Which they turned into this:
 
-![Finished version after A TON of help from Adrianna]({{site.baseurl}}/assets/img/grass_text.png)
+![Finished version after A TON of help from Adrianna]({{site.baseurl}}/assets/img/posts/grass_text.png)
 
 They used an oil painting filter to make the image look more illustrated while also using an overlay of a jpg-to-pencil-sketch conversion of the original to get those sketchy lines that outline the wheat. They also used a color burn effect to make sure that the colors don't get washed out by the sketch layer (which has a white background since it's wicked hard to take the background off of and make transparent). My original attempt at this before I took it to Adrianna looked like this: 
 
-![washed out version]({{site.baseurl}}/assets/img/grass_sketched.png)
+![washed out version]({{site.baseurl}}/assets/img/posts/grass_sketched.png)
 
 Which SUCKS, so big shout-out to Adrianna for being really great at Photoshop.
 
