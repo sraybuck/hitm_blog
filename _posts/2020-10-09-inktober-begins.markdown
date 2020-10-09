@@ -3,7 +3,7 @@ layout: post
 title: "Inktober Begins"
 date: 2020-10-09 0000
 description: Update on first week writing sprint, reflection questions update and modified goals.
-img:  headers/barrell_fisheye.jpeg
+img:  headers/barrels_fisheye.jpeg
 ---
 
 ## Inktober Week 1: The Ink is Metaphorical

@@ -3,7 +3,7 @@ layout: post
 title: Rough Brainstorm and Thoughts So Far
 date: 2020-08-28 00:00:00 +0300
 description: First post outlining my goals and the general outline of my ideas so far. # Add post description (optional)
-img: Onterat.jpg # Add image post (optional)
+img: headers/Onterat.jpg # Add image post (optional)
 tags: [brainstorming] # add tag
 ---
 ## So Plans Change...
