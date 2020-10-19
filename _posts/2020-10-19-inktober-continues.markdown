@@ -3,7 +3,7 @@ layout: post
 title: "Inktober Halfway Point"
 date: 2020-10-09 0000
 description: Update on the continuing sprint
-img:  headers/rusken_return.jpeg
+img:  headers/rusken_return.jpg
 ---
 
 ## Inktober Week 2: This is HARD but also Really Fun
